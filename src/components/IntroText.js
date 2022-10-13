@@ -19,7 +19,7 @@ export class IntroText extends Component {
                     <small data-dsn-animate="text">Front-End Developer</small>
                     <div className="exper">
                       <div className="numb-ex">
-                        <span className="word" data-dsn-animate="text">03</span>
+                        <span className="word" data-dsn-animate="text">04</span>
                       </div>
                       <h4 data-dsn-animate="up">YEARS OF <br /> EXPERIENCE</h4>
                     </div>
